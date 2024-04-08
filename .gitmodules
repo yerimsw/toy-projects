@@ -1,0 +1,3 @@
+[submodule "spring-mail"]
+	path = spring-mail
+	url = git@github.com:yerimsw/spring-mail.git
